@@ -1,0 +1,13 @@
+{
+    "anuga_sims_dir_name": "SDB_simulations",
+    "anuga_sim_name": "test",
+    "overwrite_dorado_sim": false,
+    "transects_filename": "transects_node2_coords.csv",
+    "seedloc_length": 0.05,
+    "Np": 2000,
+    "theta": 1,
+    "dx": 25.0,
+    "dt": 720,
+    "n_step": 15,
+    "save_walk_data": false
+}

@@ -1,0 +1,18 @@
+{
+    "path_anuga_sims": "H:/Il mio Drive/_simulations/ATX_ANUGA_simulations_WLD",
+    "anuga_file_name": "Hydro_WLAD_20210401_DXS.nc",
+    "anuga_timestep": 29,
+    "transects_filename": "transects_coords.csv",
+    "path_output_dorado_sims_dir": "dorado_simulations",
+    "test_mode": false,
+    "Np": 30000,
+    "theta": 0,
+    "seedloc_point": [
+        652570,
+        3270230
+    ],
+    "dx": 25.0,
+    "dt": 1800,
+    "n_step": 16,
+    "save_walk_data": false
+}

@@ -1,0 +1,33 @@
+{
+    "save_outputs": false,
+    "path_output_anuga_sims_dir": "SDB_simulations",
+    "compute_t_Q_time": false,
+    "camp": "spring",
+    "pars": {
+        "fall": [
+            0.89,
+            -135.58
+        ],
+        "spring": [
+            2.67,
+            -452.23
+        ]
+    },
+    "max_triangle_area": 500,
+    "stage_diff": 0.29,
+    "yieldstep": 1000,
+    "duration": 4000,
+    "dx_dorado": 10.0,
+    "W_U": 500,
+    "E_W": 1.2,
+    "DeltaW": 0.3,
+    "phi_sum_deg": 70.0,
+    "phi_diff_deg": -30.0,
+    "bathy_step": 0.1,
+    "S_U": 5e-5,
+    "S_L": 5e-5,
+    "S_R": 5e-5,
+    "L_U": 0.05,
+    "L_LR": 0.05,
+    "Manning_n": 0.012
+}
