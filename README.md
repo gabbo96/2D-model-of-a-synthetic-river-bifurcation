@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1011017346.svg)](https://doi.org/10.5281/zenodo.15771789)
+
 This folder contains Python scripts, libraries, and Jupyter notebooks used for the research paper "Controlling factors on water and sediment partitioning at deltaic bifurcations", currently in press at Journal of Geophysical Research - Earth Surface.
 
 Below is a concise documentation of the contents of the repository.
